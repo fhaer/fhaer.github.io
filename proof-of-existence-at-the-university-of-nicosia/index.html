@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='University of Nicosia Course Certificates An implementation for illustrating Proof of Existence can be found at the University of Nicosia for the verification of course certificates on the Bitcoin blockchain. Certificate pdf files from a course are hashed, listed in an index pdf file, which is again hashed, for the latter hash value to be included in Bitcoin transaction data after an OP_RETURN keyword. When a block with this transaction is mined and subsequent blocks based on that block are mined, the proof of existence is immutably recorded.'>
+
+<meta property='og:title' content='Proof of Existence at the University of Nicosia • Haerer.org'>
+<meta property='og:description' content='University of Nicosia Course Certificates An implementation for illustrating Proof of Existence can be found at the University of Nicosia for the verification of course certificates on the Bitcoin blockchain. Certificate pdf files from a course are hashed, listed in an index pdf file, which is again hashed, for the latter hash value to be included in Bitcoin transaction data after an OP_RETURN keyword. When a block with this transaction is mined and subsequent blocks based on that block are mined, the proof of existence is immutably recorded.'>
+<meta property='og:url' content='https://haerer.org/proof-of-existence-at-the-university-of-nicosia/'>
+<meta property='og:site_name' content='Haerer.org'>
+<meta property='og:type' content='article'><meta property='article:section' content='Page'><meta property='article:published_time' content='2017-12-30T15:47:00&#43;01:00'/><meta property='article:modified_time' content='2017-12-30T15:47:00&#43;01:00'/><meta name='twitter:card' content='summary'>
+
+<meta name="generator" content="Hugo 0.31.1" />
+
+  <title>Proof of Existence at the University of Nicosia • Haerer.org</title>
+  <link rel='canonical' href='https://haerer.org/proof-of-existence-at-the-university-of-nicosia/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/fonts.css'>
+<link rel='stylesheet' href='/assets/css/main.5495780b.css'><link rel='stylesheet' href='/css/custom.css'>
+</head>
+
+
+<body class='page type-page'>
+  <div class='site'>
+
+    <a class='screen-reader' href='#main'></a>
+
+    <header id='header' class='header-container'>
+      <div class='header site-header'>
+        <nav id='main-menu' class='main-menu-container' aria-label=''>
+  <ul class='main-menu'>
+  <li>
+      <a href='/blockchain/'>Blockchain</a>
+    </li>
+  <li>
+      <a href='https://github.com/fhaer'>Github</a>
+    </li>
+  
+  </ul>
+</nav>
+
+        <div class='header-info'>
+          
+          <p class='site-title title'>Haerer.org</p>
+          
+          <p class='site-description subtitle'></p>
+        </div>
+      </div>
+    </header>
+
+
+<main id='main' class='main'>
+  <article lang='en' class='entry'>
+    <header class='header-container'>
+  <div class='header entry-header'>
+    <div class='header-info'>
+      <h1 class='title'>Proof of Existence at the University of Nicosia</h1>
+      
+
+    </div>
+    
+
+  </div>
+</header>
+
+    
+    
+
+    <div class='entry-content'>
+  
+
+<h3 id="university-of-nicosia-course-certificates">University of Nicosia Course Certificates</h3>
+
+<p>An implementation for illustrating Proof of Existence can be found at the University of Nicosia for the <a href="https://digitalcurrency.unic.ac.cy/free-introductory-mooc/self-verifiable-certificates-on-the-bitcoin-blockchain/academic-certificates-on-the-blockchain/" target="_blank">verification of course certificates</a> on the Bitcoin blockchain. Certificate pdf files from a course are hashed, listed in an index pdf file, which is again hashed, for the latter hash value to be included in Bitcoin transaction data after an OP_RETURN keyword. When a block with this transaction is mined and subsequent blocks based on that block are mined, the proof of existence is immutably recorded. All blocks are distributed among the <em>full node</em> network participants who store a full copy of the blockchain. Anyone can verify the existence of a certificate pdf and an index pdf file by calculating their hash values, by ensuring the presence of the certificate pdf hash value in the index pdf file, and by locating the index pdf hash value on the Bitcoin blockchain.</p>
+
+<h4 id="verification">Verification</h4>
+
+<p>The following <a href="/cert/2016-nicosia-haerer-digital-currencies.pdf">certificate pdf file</a> I obtained in the fall 2015 digital currencies course can be verified with an <a href="https://dcurrency.wpengine.com/wp-content/uploads/2016/01/dfin511-index4.pdf" target="_blank">index pdf file</a>. As a requirement, document and index files need to be available <em>off-chain</em>.</p>
+
+<p>In order to verify the certificate, the SHA-256 hash value of the certificate pdf file is calculated using sha256sum or similar software.
+<pre>
+&gt; sha256sum dfin511-certificate-haerer.pdf
+f21452a8b6528d7a6bb3ed3dbececeab7c3851bf65d9539e0e14bcc504c78fb9
+</pre>This hash value needs to be present in the index file; in this case, the mentioned index pdf file contains it. For establishing the authenticity of the index pdf file, its SHA-256 hash value is calculated and compared to the one stored in a Bitcoin transaction.
+<pre>
+&gt; sha256sum dfin511-index4.pdf
+38339945a9152a1c827230fc380e456af15c1449fafbc302f748e360fb65093d
+</pre>
+The Bitcoin blockchain can be searched for the calculated hash value by any full node &ndash; for demonstration purposes, it can be looked up at the <a href="https://smartbit.com.au/" target="_blank">smartbit block explorer</a>, which does search bitcoin transaction data, including content after the OP_RETURN keyword. When searching for the mentioned hash value, the transaction <a href="https://www.smartbit.com.au/tx/5c76ef4687c07ac9b44e8a2243b10b5e9d453115b7b04be36ea2f9976d213e19" target="_blank">5c76ef4&hellip;</a> containing the following data is found.
+<pre>
+OP_RETURN 554e696344432038339945a9152a1c827230fc380e456af15c1449fafbc302f748e360fb65093d
+</pre>
+The first part <em>554e6963444320</em> is an identifier of the University of Nicosia and the second part <em>3833994&hellip;</em> is the hash value of the index pdf file.<br />
+<p>
+<br />
+As it contains the hash, the existence of the index document and, by extension, the existence of the certificate, are verified. It is contained in block <a href="https://blockchair.com/bitcoin/block/393294" target="_blank">393294</a>, mined approximately at 2016-01-14 13:09 UTC.</p>
+
+<h4 id="unspendable-transactions-in-bitcoin">Unspendable Transactions in Bitcoin</h4>
+
+<p>Including arbitrary data in a Bitcoin transaction after an OP_RETURN keyword works well, however, such a transaction is unspendable. Some amount of bitcoin is burnt as it is sent to a non-existing address; additionally, the required transaction fee has grown to multiple USD to tens of USD (<sup>12</sup>&frasl;<sub>2017</sub>). However, in 2018, transaction cost went down again and now ranges from a few cents to one or two USD.</p>
+
+<h4 id="proof-of-existence-services">Proof of Existence Services</h4>
+
+<p>Proof of Existence in Bitcoin has moved to services which index many transactions, e.g. <a href="https://poex.io/" target="_blank">POEX.io</a> (formerly proofofexistence.com).</p>
+
+<p>OpenTimestamps is a notable project, developed by the bitcoin core developer <a href="https://petertodd.org/2016/opentimestamps-announcement" target="_blank">Peter Tod</a>. It uses a Client-Server-based architecture and defines an OTS file format for containing hash values used for verification.</p>
+
+<ul>
+<li><a href="https://github.com/opentimestamps/" target="_blank">Client software</a> is available in python, javascript, and rust.</li>
+<li>A web-based version is available at <a href="https://opentimestamps.org/" target="_blank">opentimestamps.org</a>.</li>
+</ul>
+
+</div>
+
+    
+
+  </article>
+  
+  
+</main>
+
+    <footer id='footer' class='footer-container'>
+      <div class='footer'>
+        <div class='social-menu-container'>
+  <nav aria-label=''>
+    <ul class='social-menu'><li>
+        <a href='https://github.com/fhaer' target='_blank' rel='noopener'>
+          <span class='screen-reader'></span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/fhaerer' target='_blank' rel='noopener'>
+          <span class='screen-reader'></span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:felix@haerer.org' target='_blank' rel='noopener'>
+          <span class='screen-reader'></span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://linkedin.com/in/felix-h%c3%a4rer-0aa41a85' target='_blank' rel='noopener'>
+          <span class='screen-reader'></span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path stroke-width="1.8" d="m5.839218,4.101561c0,1.211972 -0.974141,2.194011 -2.176459,2.194011s-2.176459,-0.982039 -2.176459,-2.194011c0,-1.211094 0.974141,-2.194011 2.176459,-2.194011s2.176459,0.982917 2.176459,2.194011zm0.017552,3.94922l-4.388022,0l0,14.04167l4.388022,0l0,-14.04167zm7.005038,0l-4.359939,0l0,14.04167l4.360816,0l0,-7.370999c0,-4.098413 5.291077,-4.433657 5.291077,0l0,7.370999l4.377491,0l0,-8.89101c0,-6.915523 -7.829986,-6.66365 -9.669445,-3.259423l0,-1.891237z"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</div>
+        <div class='copyright'>
+  <p>
+        
+          
+        
+      
+
+       &copy; 2017-2020 Felix Härer 
+  
+  </p>
+</div>
+
+      </div>
+    </footer>
+
+  </div><script src='/assets/js/main.5871befd.js'></script><script src='/js/custom.js'></script></body>
+
+</html>
+

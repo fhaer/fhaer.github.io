@@ -1,0 +1,12 @@
+@article{harer_felix_2019_2585575,
+  author       = {Härer, Felix and
+                  Fill, Hans-Georg},
+  title        = {{A Comparison of Approaches for Visualizing 
+                   Blockchains and Smart Contracts}},
+  journal      = {Jusletter IT Weblaw},
+  year         = 2019,
+  volume       = {21 February 2019},
+  month        = feb,
+  doi          = {10.5281/zenodo.2585575},
+  url          = {https://doi.org/10.5281/zenodo.2585575}
+}

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://haerer.org/</loc>
+    <lastmod>2018-07-23T19:37:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/</loc>
+    <lastmod>2018-07-23T19:37:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blockchain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/fribourg-photos/</loc>
+    <lastmod>2018-07-23T19:37:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/decentralized-process-modeling-fribourg/</loc>
+    <lastmod>2018-07-16T20:00:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/ecis-emisa-photos/</loc>
+    <lastmod>2018-06-30T18:37:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/dpmi/</loc>
+    <lastmod>2018-06-28T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/decentralized-process-modeling-talk/</loc>
+    <lastmod>2018-06-28T09:56:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</loc>
+    <lastmod>2018-05-10T11:49:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/decentralized-process-modeling/</loc>
+    <lastmod>2018-04-28T09:56:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/hawaii-photos/</loc>
+    <lastmod>2018-01-17T22:37:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/impressions-hicss-51/</loc>
+    <lastmod>2018-01-08T22:17:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/hicss-51-start/</loc>
+    <lastmod>2018-01-03T23:38:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/hicss-51/</loc>
+    <lastmod>2018-01-02T08:19:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/proof-of-existence-at-the-university-of-nicosia/</loc>
+    <lastmod>2017-12-30T15:47:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/blockchain-links/</loc>
+    <lastmod>2017-12-30T14:34:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/sha256-hash-calculator-tool/</loc>
+    <lastmod>2017-12-27T19:56:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/serm-tool/</loc>
+    <lastmod>2017-09-22T22:00:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/knowledge-blockchain/</loc>
+    <lastmod>2017-09-14T22:49:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/jam-stack/</loc>
+    <lastmod>2017-03-14T11:49:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/blog/som/</loc>
+    <lastmod>2017-01-07T12:29:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/blockchain/</loc>
+    <lastmod>2018-07-16T20:00:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/categories/blockchain/</loc>
+    <lastmod>2017-12-30T14:34:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/categories/</loc>
+    <lastmod>2017-12-30T14:34:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/ecis/</loc>
+    <lastmod>2018-06-30T18:37:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/emisa/</loc>
+    <lastmod>2018-06-30T18:37:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/fribourg/</loc>
+    <lastmod>2018-07-23T19:37:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/hash-function/</loc>
+    <lastmod>2017-12-27T19:56:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/hicss/</loc>
+    <lastmod>2018-01-17T22:37:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/modeling/</loc>
+    <lastmod>2018-07-16T20:00:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/page/</loc>
+    <lastmod>2018-06-28T16:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/private-blockchain/</loc>
+    <lastmod>2017-12-30T14:34:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/proof-of-existence/</loc>
+    <lastmod>2017-12-27T19:56:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/public-blockchain/</loc>
+    <lastmod>2017-12-30T14:34:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/categories/research/</loc>
+    <lastmod>2018-07-16T20:00:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/software/</loc>
+    <lastmod>2017-09-22T22:00:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/</loc>
+    <lastmod>2018-07-16T20:00:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/teaching/</loc>
+    <lastmod>2017-09-22T22:00:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/categories/technology/</loc>
+    <lastmod>2017-03-14T11:49:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haerer.org/tags/web/</loc>
+    <lastmod>2017-03-14T11:49:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

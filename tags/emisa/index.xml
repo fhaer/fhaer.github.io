@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emisa on Haerer.org</title>
+    <link>https://haerer.org/tags/emisa/</link>
+    <description>Recent content in Emisa on Haerer.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jun 2018 18:37:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://haerer.org/tags/emisa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photos from Portsmouth and Rostock</title>
+      <link>https://haerer.org/blog/ecis-emisa-photos/</link>
+      <pubDate>Sat, 30 Jun 2018 18:37:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/ecis-emisa-photos/</guid>
+      <description>&lt;p&gt;From my two most recent trips to ECIS/EMISA. I did not take too many pictures - here is a selection:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Blockchain Talk at EMISA 2018</title>
+      <link>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</link>
+      <pubDate>Thu, 10 May 2018 11:49:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m looking forward to the 9th International Workshop on Enterprise Modeling and Information Systems Architectures &lt;a href=&#34;http://www.emisa2018.informatik.uni-rostock.de/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;EMISA 2018&amp;rdquo;&lt;/a&gt; on May 24-25 in Rostock!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

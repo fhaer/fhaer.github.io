@@ -1,0 +1,11 @@
+
+@thesis{harer_vom_2014,
+  title = {{Vom SOM-Gesch\"aftsprozessmodell zum Softwareartefakt - modellgetriebene Systementwicklung mit dem Eclipse Modeling Framework}},  abstract = {Zur \"Uberbr\"uckung der semantischen L\"ucke zwischen der fachlichen und der softwaretechnischen Ebene in der Systementwicklung schl\"agt diese Arbeit einen modellgetriebenen Ansatz ausgehend von Gesch\"aftsprozessen hin zur Generierung von Quellcode f\"ur eine service-orientierte JavaEE-Architektur vor. Der Ansatz und ein implementiertes Software-Werkzeug nutzen das Eclipse Modeling Framework (EMF) anhand von Ecore-Modellen und QVTo-basierten Modelltransformationen. Service-orientierte Anwendungssysteme werden anhand einer Xtext- und ANTLR-basierten Grammatik beschrieben, die eine auf konzeptuellen Objekttypen und Vorgangsobjekttypen (KOS und VOS der SOM-Methodik) aufbauende Syntax vorschl\"agt. Resultierende Ecore-Modelle sind anhand von QVTo in ein komponentenorientiertes Softwaremodell auf Basis von JavaEE \"uberf\"uhrbar. Die Transformation dieses Modells in Quellcode erzeugt ein auf einer Referenz-Architektur basierendes verteiltes Software-System bestehend aus Entit\"ats- und Vorgangs-Services, einschlie\ss{}lich JPA-Entities, SessionBeans, MessageDrivenBeans mit Message Queues und EJB-Module-Konfigurationen.},
+  language = {German},
+  school = {Otto-Friedrich-Universit\"at Bamberg},
+  address = {Bamberg},
+  type = {{Masterthesis}},
+  author = {H\"arer, Felix},
+  year = {2014}
+  doi = {10.1007/978-3-658-14826-3}
+}

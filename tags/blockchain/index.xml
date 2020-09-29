@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Haerer.org</title>
+    <link>https://haerer.org/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Haerer.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jul 2018 20:00:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://haerer.org/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speaking on Knowledge Blockchains in Fribourg</title>
+      <link>https://haerer.org/blog/decentralized-process-modeling-fribourg/</link>
+      <pubDate>Mon, 16 Jul 2018 20:00:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/decentralized-process-modeling-fribourg/</guid>
+      <description>&lt;p&gt;On Friday, July 20th, I have the opportunity to visit the University of Fribourg and discuss our Knowledge Blockchains approach there. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ECIS Talk on Decentralized Process Modeling and Instance Tracking</title>
+      <link>https://haerer.org/blog/decentralized-process-modeling-talk/</link>
+      <pubDate>Thu, 28 Jun 2018 09:56:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/decentralized-process-modeling-talk/</guid>
+      <description>&lt;p&gt;The slides of the talk given today at the 2018 European Conference on Information Systems are available for download.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Blockchain Talk at EMISA 2018</title>
+      <link>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</link>
+      <pubDate>Thu, 10 May 2018 11:49:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m looking forward to the 9th International Workshop on Enterprise Modeling and Information Systems Architectures &lt;a href=&#34;http://www.emisa2018.informatik.uni-rostock.de/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;EMISA 2018&amp;rdquo;&lt;/a&gt; on May 24-25 in Rostock!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Process Modeling and Instance Tracking</title>
+      <link>https://haerer.org/blog/decentralized-process-modeling/</link>
+      <pubDate>Sat, 28 Apr 2018 09:56:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/decentralized-process-modeling/</guid>
+      <description>&lt;p&gt;As of yesterday, my paper on decentralized process modeling and instance tracking has been accepted for &lt;a href=&#34;http://ecis2018.eu/&#34; target=&#34;_blank&#34;&gt;ECIS 2018&lt;/a&gt; &amp;ndash; this work constitutes the main part of my thesis and I&amp;rsquo;m very excited to discuss it in Portsmouth in June!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HICSS 51 Proceedings</title>
+      <link>https://haerer.org/blog/hicss-51/</link>
+      <pubDate>Tue, 02 Jan 2018 08:19:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/hicss-51/</guid>
+      <description>&lt;p&gt;The proceedings of the 51st Hawaii International Conference on System Sciences are online &lt;a href=&#34;https://scholarspace.manoa.hawaii.edu/handle/10125/49887&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Links on Public and Private Blockchains</title>
+      <link>https://haerer.org/blog/blockchain-links/</link>
+      <pubDate>Sat, 30 Dec 2017 14:34:00 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/blockchain-links/</guid>
+      <description>&lt;p&gt;The Blockchain section now contains a &amp;ldquo;curated&amp;rdquo; link list on the two most prominent public blockchains Bitcoin and Ethereum, as well as links on private blockchain projects for enterprises. → &lt;a href=&#34;https://haerer.org/blockchain&#34;&gt;Blockchain Section&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SHA-256 Hash Calculator Tool</title>
+      <link>https://haerer.org/blog/sha256-hash-calculator-tool/</link>
+      <pubDate>Wed, 27 Dec 2017 19:56:00 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/sha256-hash-calculator-tool/</guid>
+      <description>&lt;p&gt;One of the building blocks of blockchain technologies are cryptographic hash functions. This tool demonstrates the calculation of the SHA-256 hash function for linking blocks, integrity checking or higher level existence proof and notarization applications. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Blockchain at HICSS-51</title>
+      <link>https://haerer.org/blog/knowledge-blockchain/</link>
+      <pubDate>Thu, 14 Sep 2017 22:49:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/knowledge-blockchain/</guid>
+      <description>&lt;p&gt;Our Paper on immutably storing, sharing and managing enterprise models on a &amp;ldquo;&lt;em&gt;Knowledge Blockchain&lt;/em&gt;&amp;rdquo; for Knowledge Management has been accepted for the &lt;a href=&#34;http://hicss.hawaii.edu/&#34; target=&#34;_blank&#34;&gt;51st Hawaii International Conference on System Sciences (HICSS-51)&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

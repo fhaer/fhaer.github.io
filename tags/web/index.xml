@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Haerer.org</title>
+    <link>https://haerer.org/tags/web/</link>
+    <description>Recent content in Web on Haerer.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Mar 2017 11:49:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://haerer.org/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JAM Stack</title>
+      <link>https://haerer.org/blog/jam-stack/</link>
+      <pubDate>Tue, 14 Mar 2017 11:49:36 +0100</pubDate>
+      
+      <guid>https://haerer.org/blog/jam-stack/</guid>
+      <description>&lt;p&gt;This website is based on a &lt;a href=&#34;https://jamstack.org/&#34; target=&#34;_blank&#34;&gt;JAM stack&lt;/a&gt;, i.e. JavaScript, APIs, and Markup. &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
