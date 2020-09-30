@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecis on </title>
-    <link>https://haerer.org/tags/ecis/</link>
+    <link>https://felix.haerer.org/tags/ecis/</link>
     <description>Recent content in Ecis on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jun 2018 18:37:36 +0100</lastBuildDate>
     
-	<atom:link href="https://haerer.org/tags/ecis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felix.haerer.org/tags/ecis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photos from Portsmouth and Rostock</title>
-      <link>https://haerer.org/blog/ecis-emisa-photos/</link>
+      <link>https://felix.haerer.org/blog/ecis-emisa-photos/</link>
       <pubDate>Sat, 30 Jun 2018 18:37:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/ecis-emisa-photos/</guid>
+      <guid>https://felix.haerer.org/blog/ecis-emisa-photos/</guid>
       <description>&lt;p&gt;From my two most recent trips to ECIS/EMISA. I did not take too many pictures - here is a selection:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ECIS Talk on Decentralized Process Modeling and Instance Tracking</title>
-      <link>https://haerer.org/blog/decentralized-process-modeling-talk/</link>
+      <link>https://felix.haerer.org/blog/decentralized-process-modeling-talk/</link>
       <pubDate>Thu, 28 Jun 2018 09:56:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/decentralized-process-modeling-talk/</guid>
+      <guid>https://felix.haerer.org/blog/decentralized-process-modeling-talk/</guid>
       <description>&lt;p&gt;The slides of the talk given today at the 2018 European Conference on Information Systems are available for download.&lt;/p&gt;</description>
     </item>
     

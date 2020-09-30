@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on </title>
-    <link>https://haerer.org/tags/teaching/</link>
+    <link>https://felix.haerer.org/tags/teaching/</link>
     <description>Recent content in Teaching on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Sep 2017 22:00:36 +0100</lastBuildDate>
     
-	<atom:link href="https://haerer.org/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felix.haerer.org/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Implementation Project of a SERM Data Modeling Tool</title>
-      <link>https://haerer.org/blog/serm-tool/</link>
+      <link>https://felix.haerer.org/blog/serm-tool/</link>
       <pubDate>Fri, 22 Sep 2017 22:00:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/serm-tool/</guid>
+      <guid>https://felix.haerer.org/blog/serm-tool/</guid>
       <description>&lt;p&gt;As a contribution to the &lt;a href=&#34;http://austria.omilab.org/psm/content/prose2017/info?view=eventoverview&#34; target=&#34;_blank&#34;&gt;PrOse 2017 workshop&lt;/a&gt; at &lt;a href=&#34;https://kuleuvencongres.be/poem2017/articles&#34; target=&#34;_blank&#34;&gt;PoEM 2017&lt;/a&gt; I presented our paper on &amp;ldquo;&lt;em&gt;Experiences from the Implementation of a Structured-Entity-Relationship Modeling Method in a Student Project&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     

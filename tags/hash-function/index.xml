@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hash function on </title>
-    <link>https://haerer.org/tags/hash-function/</link>
+    <link>https://felix.haerer.org/tags/hash-function/</link>
     <description>Recent content in Hash function on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Dec 2017 19:56:00 +0100</lastBuildDate>
     
-	<atom:link href="https://haerer.org/tags/hash-function/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felix.haerer.org/tags/hash-function/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SHA-256 Hash Calculator Tool</title>
-      <link>https://haerer.org/blog/sha256-hash-calculator-tool/</link>
+      <link>https://felix.haerer.org/blog/sha256-hash-calculator-tool/</link>
       <pubDate>Wed, 27 Dec 2017 19:56:00 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/sha256-hash-calculator-tool/</guid>
+      <guid>https://felix.haerer.org/blog/sha256-hash-calculator-tool/</guid>
       <description>&lt;p&gt;One of the building blocks of blockchain technologies are cryptographic hash functions. This tool demonstrates the calculation of the SHA-256 hash function for linking blocks, integrity checking or higher level existence proof and notarization applications. &lt;/p&gt;</description>
     </item>
     

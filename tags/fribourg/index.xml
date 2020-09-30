@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fribourg on </title>
-    <link>https://haerer.org/tags/fribourg/</link>
+    <link>https://felix.haerer.org/tags/fribourg/</link>
     <description>Recent content in Fribourg on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jul 2018 19:37:36 +0100</lastBuildDate>
     
-	<atom:link href="https://haerer.org/tags/fribourg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felix.haerer.org/tags/fribourg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressions from Fribourg</title>
-      <link>https://haerer.org/blog/fribourg-photos/</link>
+      <link>https://felix.haerer.org/blog/fribourg-photos/</link>
       <pubDate>Mon, 23 Jul 2018 19:37:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/fribourg-photos/</guid>
+      <guid>https://felix.haerer.org/blog/fribourg-photos/</guid>
       <description>&lt;p&gt;Impressions from my trip to the picturesque town of Fribourg, Switzerland:
 &lt;/p&gt;</description>
     </item>
