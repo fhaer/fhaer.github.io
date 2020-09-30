@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on </title>
-    <link>https://felix.haerer.org/categories/blockchain/</link>
+    <link>https://haerer.org/categories/blockchain/</link>
     <description>Recent content in Blockchain on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Dec 2017 14:34:00 +0100</lastBuildDate>
     
-	<atom:link href="https://felix.haerer.org/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haerer.org/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links on Public and Private Blockchains</title>
-      <link>https://felix.haerer.org/blog/blockchain-links/</link>
+      <link>https://haerer.org/blog/blockchain-links/</link>
       <pubDate>Sat, 30 Dec 2017 14:34:00 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/blockchain-links/</guid>
-      <description>&lt;p&gt;The Blockchain section now contains a &amp;ldquo;curated&amp;rdquo; link list on the two most prominent public blockchains Bitcoin and Ethereum, as well as links on private blockchain projects for enterprises. → &lt;a href=&#34;https://felix.haerer.org/blockchain&#34;&gt;Blockchain Section&lt;/a&gt;&lt;/p&gt;
+      <guid>https://haerer.org/blog/blockchain-links/</guid>
+      <description>&lt;p&gt;The Blockchain section now contains a &amp;ldquo;curated&amp;rdquo; link list on the two most prominent public blockchains Bitcoin and Ethereum, as well as links on private blockchain projects for enterprises. → &lt;a href=&#34;https://haerer.org/blockchain&#34;&gt;Blockchain Section&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SHA-256 Hash Calculator Tool</title>
-      <link>https://felix.haerer.org/blog/sha256-hash-calculator-tool/</link>
+      <link>https://haerer.org/blog/sha256-hash-calculator-tool/</link>
       <pubDate>Wed, 27 Dec 2017 19:56:00 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/sha256-hash-calculator-tool/</guid>
+      <guid>https://haerer.org/blog/sha256-hash-calculator-tool/</guid>
       <description>&lt;p&gt;One of the building blocks of blockchain technologies are cryptographic hash functions. This tool demonstrates the calculation of the SHA-256 hash function for linking blocks, integrity checking or higher level existence proof and notarization applications. &lt;/p&gt;</description>
     </item>
     

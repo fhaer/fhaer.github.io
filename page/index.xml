@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on </title>
-    <link>https://felix.haerer.org/page/</link>
+    <link>https://haerer.org/page/</link>
     <description>Recent content in Pages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Jun 2018 16:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://felix.haerer.org/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haerer.org/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Decentralized Process Modeling and Instance Tracking</title>
-      <link>https://felix.haerer.org/dpmi/</link>
+      <link>https://haerer.org/dpmi/</link>
       <pubDate>Thu, 28 Jun 2018 16:00:00 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/dpmi/</guid>
+      <guid>https://haerer.org/dpmi/</guid>
       <description>With this approach, the planning and the execution of business processes can be conducted in a decentralized fashion, using process models secured by a public blockchain. In a Business-to-Business setting, trust-free transactions regarding the planned processes and their execution can be made among decentralized process participants acting as peers in a peer-to-peer network. The approach suggests to use the blockchain only for trust-related requirements, i.e. to provide integrity of the models and to reach an agreement regarding the processes.</description>
     </item>
     
     <item>
       <title>Proof of Existence at the University of Nicosia</title>
-      <link>https://felix.haerer.org/proof-of-existence-at-the-university-of-nicosia/</link>
+      <link>https://haerer.org/proof-of-existence-at-the-university-of-nicosia/</link>
       <pubDate>Sat, 30 Dec 2017 15:47:00 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/proof-of-existence-at-the-university-of-nicosia/</guid>
+      <guid>https://haerer.org/proof-of-existence-at-the-university-of-nicosia/</guid>
       <description>University of Nicosia Course Certificates An implementation for illustrating Proof of Existence can be found at the University of Nicosia for the verification of course certificates on the Bitcoin blockchain. Certificate pdf files from a course are hashed, listed in an index pdf file, which is again hashed, for the latter hash value to be included in Bitcoin transaction data after an OP_RETURN keyword. When a block with this transaction is mined and subsequent blocks based on that block are mined, the proof of existence is immutably recorded.</description>
     </item>
     
