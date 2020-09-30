@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on </title>
-    <link>https://haerer.org/categories/research/</link>
+    <link>https://felix.haerer.org/categories/research/</link>
     <description>Recent content in Research on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jul 2018 20:00:36 +0100</lastBuildDate>
     
-	<atom:link href="https://haerer.org/categories/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felix.haerer.org/categories/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Speaking on Knowledge Blockchains in Fribourg</title>
-      <link>https://haerer.org/blog/decentralized-process-modeling-fribourg/</link>
+      <link>https://felix.haerer.org/blog/decentralized-process-modeling-fribourg/</link>
       <pubDate>Mon, 16 Jul 2018 20:00:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/decentralized-process-modeling-fribourg/</guid>
+      <guid>https://felix.haerer.org/blog/decentralized-process-modeling-fribourg/</guid>
       <description>&lt;p&gt;On Friday, July 20th, I have the opportunity to visit the University of Fribourg and discuss our Knowledge Blockchains approach there. &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ECIS Talk on Decentralized Process Modeling and Instance Tracking</title>
-      <link>https://haerer.org/blog/decentralized-process-modeling-talk/</link>
+      <link>https://felix.haerer.org/blog/decentralized-process-modeling-talk/</link>
       <pubDate>Thu, 28 Jun 2018 09:56:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/decentralized-process-modeling-talk/</guid>
+      <guid>https://felix.haerer.org/blog/decentralized-process-modeling-talk/</guid>
       <description>&lt;p&gt;The slides of the talk given today at the 2018 European Conference on Information Systems are available for download.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Knowledge Blockchain Talk at EMISA 2018</title>
-      <link>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</link>
+      <link>https://felix.haerer.org/blog/emisa-2018-knowledge-blockchain/</link>
       <pubDate>Thu, 10 May 2018 11:49:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/emisa-2018-knowledge-blockchain/</guid>
+      <guid>https://felix.haerer.org/blog/emisa-2018-knowledge-blockchain/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m looking forward to the 9th International Workshop on Enterprise Modeling and Information Systems Architectures &lt;a href=&#34;http://www.emisa2018.informatik.uni-rostock.de/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;EMISA 2018&amp;rdquo;&lt;/a&gt; on May 24-25 in Rostock!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Decentralized Process Modeling and Instance Tracking</title>
-      <link>https://haerer.org/blog/decentralized-process-modeling/</link>
+      <link>https://felix.haerer.org/blog/decentralized-process-modeling/</link>
       <pubDate>Sat, 28 Apr 2018 09:56:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/decentralized-process-modeling/</guid>
+      <guid>https://felix.haerer.org/blog/decentralized-process-modeling/</guid>
       <description>&lt;p&gt;As of yesterday, my paper on decentralized process modeling and instance tracking has been accepted for &lt;a href=&#34;http://ecis2018.eu/&#34; target=&#34;_blank&#34;&gt;ECIS 2018&lt;/a&gt; &amp;ndash; this work constitutes the main part of my thesis and I&amp;rsquo;m very excited to discuss it in Portsmouth in June!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Impressions from HICSS 51</title>
-      <link>https://haerer.org/blog/impressions-hicss-51/</link>
+      <link>https://felix.haerer.org/blog/impressions-hicss-51/</link>
       <pubDate>Mon, 08 Jan 2018 22:17:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/impressions-hicss-51/</guid>
-      <description>&lt;p&gt;Impressions from the &amp;ldquo;51st Hawaii International Conference on System Sciences&amp;rdquo; and from Big Island. On the 4th of January, I presented &lt;a href=&#34;https://haerer.org/blockchain#knowledge-blockchain&#34;&gt;&amp;ldquo;Knowledge Blockchains&amp;rdquo;&lt;/a&gt; at HICSS 51.&lt;/p&gt;</description>
+      <guid>https://felix.haerer.org/blog/impressions-hicss-51/</guid>
+      <description>&lt;p&gt;Impressions from the &amp;ldquo;51st Hawaii International Conference on System Sciences&amp;rdquo; and from Big Island. On the 4th of January, I presented &lt;a href=&#34;https://felix.haerer.org/blockchain#knowledge-blockchain&#34;&gt;&amp;ldquo;Knowledge Blockchains&amp;rdquo;&lt;/a&gt; at HICSS 51.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Start of HICSS 51</title>
-      <link>https://haerer.org/blog/hicss-51-start/</link>
+      <link>https://felix.haerer.org/blog/hicss-51-start/</link>
       <pubDate>Wed, 03 Jan 2018 23:38:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/hicss-51-start/</guid>
+      <guid>https://felix.haerer.org/blog/hicss-51-start/</guid>
       <description>&lt;p&gt;Today, HICSS 51 started &amp;ndash; personal highlights: inspiring conversations inside and outside of cyber-security symposia and workshops &amp;hellip; and the Big Island of Hawaii.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -69,10 +69,10 @@
     
     <item>
       <title>HICSS 51 Proceedings</title>
-      <link>https://haerer.org/blog/hicss-51/</link>
+      <link>https://felix.haerer.org/blog/hicss-51/</link>
       <pubDate>Tue, 02 Jan 2018 08:19:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/hicss-51/</guid>
+      <guid>https://felix.haerer.org/blog/hicss-51/</guid>
       <description>&lt;p&gt;The proceedings of the 51st Hawaii International Conference on System Sciences are online &lt;a href=&#34;https://scholarspace.manoa.hawaii.edu/handle/10125/49887&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -80,28 +80,28 @@
     
     <item>
       <title>Implementation Project of a SERM Data Modeling Tool</title>
-      <link>https://haerer.org/blog/serm-tool/</link>
+      <link>https://felix.haerer.org/blog/serm-tool/</link>
       <pubDate>Fri, 22 Sep 2017 22:00:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/serm-tool/</guid>
+      <guid>https://felix.haerer.org/blog/serm-tool/</guid>
       <description>&lt;p&gt;As a contribution to the &lt;a href=&#34;http://austria.omilab.org/psm/content/prose2017/info?view=eventoverview&#34; target=&#34;_blank&#34;&gt;PrOse 2017 workshop&lt;/a&gt; at &lt;a href=&#34;https://kuleuvencongres.be/poem2017/articles&#34; target=&#34;_blank&#34;&gt;PoEM 2017&lt;/a&gt; I presented our paper on &amp;ldquo;&lt;em&gt;Experiences from the Implementation of a Structured-Entity-Relationship Modeling Method in a Student Project&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Knowledge Blockchain at HICSS-51</title>
-      <link>https://haerer.org/blog/knowledge-blockchain/</link>
+      <link>https://felix.haerer.org/blog/knowledge-blockchain/</link>
       <pubDate>Thu, 14 Sep 2017 22:49:36 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/knowledge-blockchain/</guid>
+      <guid>https://felix.haerer.org/blog/knowledge-blockchain/</guid>
       <description>&lt;p&gt;Our Paper on immutably storing, sharing and managing enterprise models on a &amp;ldquo;&lt;em&gt;Knowledge Blockchain&lt;/em&gt;&amp;rdquo; for Knowledge Management has been accepted for the &lt;a href=&#34;http://hicss.hawaii.edu/&#34; target=&#34;_blank&#34;&gt;51st Hawaii International Conference on System Sciences (HICSS-51)&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Business Process Modeling with the Semantic Object Model</title>
-      <link>https://haerer.org/blog/som/</link>
+      <link>https://felix.haerer.org/blog/som/</link>
       <pubDate>Sat, 07 Jan 2017 12:29:13 +0100</pubDate>
       
-      <guid>https://haerer.org/blog/som/</guid>
+      <guid>https://felix.haerer.org/blog/som/</guid>
       <description>Richard Herz, Andreas Steffan and I authored a book chapter on the introduction of the Semantic Object Model (SOM) using a case study based on the zooplus AG.
 The german language publication is available at Springer Link. Further information on the Semantic Object Model by Ferstl and Sinz can be found in this english language publication.
 Härer F., Steffan A., Herz R.A. (2016) Fallstudienbasierte Einführung von SOM. In: Benker T., Jürck C.</description>
