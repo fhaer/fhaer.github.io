@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hicss on </title>
-    <link>https://felix.haerer.org/tags/hicss/</link>
+    <link>https://haerer.org/tags/hicss/</link>
     <description>Recent content in Hicss on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jan 2018 22:37:36 +0100</lastBuildDate>
     
-	<atom:link href="https://felix.haerer.org/tags/hicss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haerer.org/tags/hicss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photos from Hawaii</title>
-      <link>https://felix.haerer.org/blog/hawaii-photos/</link>
+      <link>https://haerer.org/blog/hawaii-photos/</link>
       <pubDate>Wed, 17 Jan 2018 22:37:36 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/hawaii-photos/</guid>
+      <guid>https://haerer.org/blog/hawaii-photos/</guid>
       <description>&lt;p&gt;More pictures from the beautiful island!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Impressions from HICSS 51</title>
-      <link>https://felix.haerer.org/blog/impressions-hicss-51/</link>
+      <link>https://haerer.org/blog/impressions-hicss-51/</link>
       <pubDate>Mon, 08 Jan 2018 22:17:36 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/impressions-hicss-51/</guid>
-      <description>&lt;p&gt;Impressions from the &amp;ldquo;51st Hawaii International Conference on System Sciences&amp;rdquo; and from Big Island. On the 4th of January, I presented &lt;a href=&#34;https://felix.haerer.org/blockchain#knowledge-blockchain&#34;&gt;&amp;ldquo;Knowledge Blockchains&amp;rdquo;&lt;/a&gt; at HICSS 51.&lt;/p&gt;</description>
+      <guid>https://haerer.org/blog/impressions-hicss-51/</guid>
+      <description>&lt;p&gt;Impressions from the &amp;ldquo;51st Hawaii International Conference on System Sciences&amp;rdquo; and from Big Island. On the 4th of January, I presented &lt;a href=&#34;https://haerer.org/blockchain#knowledge-blockchain&#34;&gt;&amp;ldquo;Knowledge Blockchains&amp;rdquo;&lt;/a&gt; at HICSS 51.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Start of HICSS 51</title>
-      <link>https://felix.haerer.org/blog/hicss-51-start/</link>
+      <link>https://haerer.org/blog/hicss-51-start/</link>
       <pubDate>Wed, 03 Jan 2018 23:38:36 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/hicss-51-start/</guid>
+      <guid>https://haerer.org/blog/hicss-51-start/</guid>
       <description>&lt;p&gt;Today, HICSS 51 started &amp;ndash; personal highlights: inspiring conversations inside and outside of cyber-security symposia and workshops &amp;hellip; and the Big Island of Hawaii.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -43,10 +43,10 @@
     
     <item>
       <title>HICSS 51 Proceedings</title>
-      <link>https://felix.haerer.org/blog/hicss-51/</link>
+      <link>https://haerer.org/blog/hicss-51/</link>
       <pubDate>Tue, 02 Jan 2018 08:19:36 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/hicss-51/</guid>
+      <guid>https://haerer.org/blog/hicss-51/</guid>
       <description>&lt;p&gt;The proceedings of the 51st Hawaii International Conference on System Sciences are online &lt;a href=&#34;https://scholarspace.manoa.hawaii.edu/handle/10125/49887&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -54,10 +54,10 @@
     
     <item>
       <title>Knowledge Blockchain at HICSS-51</title>
-      <link>https://felix.haerer.org/blog/knowledge-blockchain/</link>
+      <link>https://haerer.org/blog/knowledge-blockchain/</link>
       <pubDate>Thu, 14 Sep 2017 22:49:36 +0100</pubDate>
       
-      <guid>https://felix.haerer.org/blog/knowledge-blockchain/</guid>
+      <guid>https://haerer.org/blog/knowledge-blockchain/</guid>
       <description>&lt;p&gt;Our Paper on immutably storing, sharing and managing enterprise models on a &amp;ldquo;&lt;em&gt;Knowledge Blockchain&lt;/em&gt;&amp;rdquo; for Knowledge Management has been accepted for the &lt;a href=&#34;http://hicss.hawaii.edu/&#34; target=&#34;_blank&#34;&gt;51st Hawaii International Conference on System Sciences (HICSS-51)&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     
